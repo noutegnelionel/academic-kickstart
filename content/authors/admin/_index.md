@@ -70,8 +70,8 @@ email: "noutegnelionel@gmail.com"
 highlight_name: true
 ---
 
-LIO  IL FAUT ALLER DANS SE DOSSIER POUR FAIT TES MODIFICATIONacademic-kickstart/content/authors/admins.
+He is a computer engineer at WARWII-Solution in (Quebec-Canada) since september 2019. He hold a M.Sc in computer science research and especially in the field of data mining at the Faculty of Science of the University of Yaoundé 1 in Cameroon in 2018. In addition, he defended a M.Sc in Big data and Computer securityin 2020 at the African Institut for mathematical Science (AIMS-Senegal), which he started in 2018 with Prof. Djiby Sow, of the Faculty of Science and Technology of Cheikh Anta Diop University (UCAD) in Dakar. He obtained its B.Sc in fundamental computer science at the University of Douala in Cameroon between 2013 and 2015.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+At WARWII-Solution, he interested in software development on optimization and operations research and its applications for satellite. Also in artificial intelligence and big data problems. He also interested on the fundamental aspects of artificial inteligence and its applications in cybersecurity. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
