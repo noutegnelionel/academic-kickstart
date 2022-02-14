@@ -1,7 +1,4 @@
 
-{% comment %}
-
-Source: https://prograide.com/pregunta/1081/commentaires-en-format-markdown
 # A Demo section created with the Blank widget.
 # Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
 # Add more sections by duplicating this file and customizing to your requirements.
@@ -89,5 +86,4 @@ Backgrounds can be applied to any section. Here, the *background* option is set 
 [Check out the Markdown files](https://github.com/wowchemy/starter-academic/tree/master/exampleSite) which power the [Academic Demo](https://academic-demo.netlify.app), or [view the showcase](https://wowchemy.com/user-stories/).
 
 
-{% endcomment %}
 
