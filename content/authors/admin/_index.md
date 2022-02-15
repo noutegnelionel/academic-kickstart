@@ -1,6 +1,6 @@
 ---
-# Display name
-title: LIONEL
+title: lio
+role: Researcher PHD Student chez Inria
 avatar_filename: Capture.jpg
 # Is this the primary user of the site?
 superuser: true
