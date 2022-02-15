@@ -1,7 +1,7 @@
 ---
 # Display name
 title: LIONEL
-avatar_filename: Capture.PNG
+avatar_filename: Capture.jpg
 # Is this the primary user of the site?
 superuser: true
 
