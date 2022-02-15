@@ -1,6 +1,6 @@
 ---
 # Display name
-title: LIO
+title: LIONEL
 
 # Is this the primary user of the site?
 superuser: true
