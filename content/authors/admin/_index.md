@@ -72,20 +72,10 @@ highlight_name: true
 ---
 
 He is a computer engineer at <a href="http://www.warwii.com/en/index.html">
-WARWII-Solution</a> in (Quebec-Canada) since september 2019.
+WARWII-Solution</a> in (Quebec-Canada) since september 2019.He hold a  M.Sc  in computer science research and especially in the field of data mining at the 
+Faculty of Science of the University of Yaoundé 1 in Cameroon in 2018.  In addition, he defended a M.Sc in Big data and Computer securityin 2020 at the African Institut for mathematical Science <a href="https://aims-senegal.org/">(AIMS-Senegal)</a>, which he started in 2018 with 
+ <a href="http://lacgaatdsi.blogspot.com/2018/12/dr-diby-sow.html">Prof. Djiby Sow</a>, of the Faculty of Science and Technology of Cheikh Anta Diop University (UCAD) in Dakar. He obtained its B.Sc in fundamental computer science at the University of Douala in Cameroon between 2013 and 2015.</p>
 
-He hold a  M.Sc  in computer science research and especially in the field of data mining at the 
-Faculty of Science of the University of Yaoundé 1 in Cameroon in 2018.  In addition, he defended  
-a 
-M.Sc in Big data and Computer securityin 2020 at the African Institut for mathematical Science
-<a href="https://aims-senegal.org/">(AIMS-Senegal)</a>, which he started in 2018 with 
- <a href="http://lacgaatdsi.blogspot.com/2018/12/dr-diby-sow.html">Prof. Djiby Sow</a>, 
- of the Faculty of Science and Technology
-of Cheikh Anta Diop University (UCAD) in Dakar. He obtained its B.Sc in fundamental computer science at the 
-University of Douala in Cameroon between 2013 and 2015.</p>
-
-<p>At WARWII-Solution, he interested in software development on optimization and operations research  and its applications for satellite.
-	Also in artificial intelligence and big data problems.
-<br>He also interested on the fundamental aspects of artificial inteligence and its applications in cybersecurity.
+<p>At WARWII-Solution, he interested in software development on optimization and operations research  and its applications for satellite. Also in artificial intelligence and big data problems. <br>He also interested on the fundamental aspects of artificial inteligence and its applications in cybersecurity.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
