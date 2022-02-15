@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Foutse
+title: LIO
 
 # Is this the primary user of the site?
 superuser: true
@@ -71,23 +71,9 @@ email: "noutegnelionel@gmail.com"
 highlight_name: true
 ---
 
-She is a Cameroonian researcher who aspires to inspire :), striving to have a positive impact in the field of Natural Language 
-                    Processing (NLP). In her free time, she loves to volunteer. Given her strong 
-                    desire and passion to increase the active participation of women and young 
-                    girls in STEM fields and above all demystify Artificial intelligence (AI) in 
-                    her home country, together with her friends, she founded the <a href="https://www.linkedin.com/in/kmer-ai-ba7712191" target="_blank">KmerAI</a> 
-                     community, and co-founded <a href="https://www.linkedin.com/in/women-promoting-science-to-the-younger-association-661a5317b" target="_blank">WPSYG</a>
-                      (Women Promoting Sciences to the Younger Generation) association. In addition to that, 
-                      she is equally a co-organizer for the Women in Machine Learning & Data Sciences (<a href="http://wimlds.org/" target="_blank">WiMLDS</a>), 
-                      Yaoundé <a href="https://www.linkedin.com/company/wimlds-yaounde" target="_blank">chapter</a> 
-                      and a volunteer at <a href="https://blackinai.github.io/#/" target="_blank">Black in AI</a>. 
-                      Foutse holds a Bachelor of Science degree in Mathematics and Computer Science (minor) from 
-                      the University of Buea, Cameroon and two Master's degree - one in Big Data and Computer security, 
-                      and the other in Information and Data processing from the African Institute for Mathematical Sciences (AIMS), 
-                      Senegal and the University of Paris Saclay, France respectively. She is currently pursuing 
-                      a PhD in Computer Science, working on the intersection of graphs and NLP for recommender 
-                      systems. The main objective of her work is to define an optimized system for information 
-                      retrieval and recommendation of technological development. She loves singing and listening to music a lot. 
-                    Her favorite sports are tennis, ping pong and volleyball.
+He is a computer engineer at WARWII-Solution in (Quebec-Canada) since september 2019. He hold a M.Sc in computer science research and especially in the field of data mining at the Faculty of Science of the University of Yaoundé 1 in Cameroon in 2018. In addition, he defended a M.Sc in Big data and Computer securityin 2020 at the African Institut for mathematical Science (AIMS-Senegal), which he started in 2018 with Prof. Djiby Sow, of the Faculty of Science and Technology of Cheikh Anta Diop University (UCAD) in Dakar. He obtained its B.Sc in fundamental computer science at the University of Douala in Cameroon between 2013 and 2015.
+
+At WARWII-Solution, he interested in software development on optimization and operations research and its applications for satellite. Also in artificial intelligence and big data problems.
+He also interested on the fundamental aspects of artificial inteligence and its applications in cybersecurity. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
