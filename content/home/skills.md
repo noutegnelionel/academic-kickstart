@@ -16,10 +16,6 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- icon: "Mathlab"
-  icon_pack: "mathlab"
-  name: "Mathlab"
-  description: "90%"
 -description: 90%
   icon: r-project
   icon_pack: fab
@@ -47,4 +43,8 @@ feature:
 #  icon_pack: "custom"
 #  name: "Surfing"
 #  description: "90%"
+- icon: "Mathlab"
+  icon_pack: "mathlab"
+  name: "Mathlab"
+  description: "90%"
 ---
