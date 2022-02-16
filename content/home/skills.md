@@ -17,9 +17,9 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 -description: 90%
-  icon: m-project
+  icon: fa-facebook-f
   icon_pack: fab
-  name: M
+  name: F
 -description: 90%
   icon: r-project
   icon_pack: fab
