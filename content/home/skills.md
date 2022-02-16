@@ -17,9 +17,9 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 -description: 90%
-  icon: fa-facebook-f
+  icon: Mathlab
   icon_pack: fab
-  name: F
+  name: M
 -description: 90%
   icon: r-project
   icon_pack: fab
