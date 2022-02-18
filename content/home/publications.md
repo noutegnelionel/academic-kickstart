@@ -1,5 +1,5 @@
 
-<!--  ---
+---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
@@ -38,5 +38,5 @@ design:
 ---
 
 {{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/). -->
+Quickly discover relevant content by [filtering publications](./publication/). 
 {{% /callout %}}
