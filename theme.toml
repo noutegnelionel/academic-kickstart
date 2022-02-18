@@ -36,7 +36,7 @@ tags = ["widgets",
         "product",
         "slide"
         ]
-features = ["page builder", "widgets", "themes", "research publication system","search",  "filterable portfolio",
+features = ["page builder", "widgets", "themes", "search",  "filterable portfolio",
             "blog", "create courses", "talks", "events", "slides", "gallery", "contact form"]
 
 [author]
