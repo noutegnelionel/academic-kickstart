@@ -1,4 +1,4 @@
-  ---
+---
 title: "An example conference paper"
 
 # Authors
