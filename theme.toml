@@ -6,37 +6,12 @@ homepage = "https://github.com/wowchemy/starter-hugo-academic/"
 demosite = "https://wowchemy.com/templates/"
 min_version = "0.84"
 tags = ["widgets",
-        "resume",
-        "portfolio",
-        "responsive",
-        "clean",
-        "personal",
-        "company",
-        "blog",
-        "minimal",
-        "light",
-        "dark",
-        "multilingual",
-        "documentation",
-        "landing page",
-        "projects",
-        "single page",
-        "contact form",
-        "mobile",
-        "gallery",
-        "search",
-        "presentation",
-        "simple",
-        "minimalist",
-        "starter",
-        "modern",
-        "one page",
-        "customizable",
-        "technical",
+        
         "product",
         "slide"
         ]
-features = ["page builder", "widgets", "themes", "search",  "contact form"]
+features = ["page builder", "widgets", "themes", "search", "research publication system","filterable portfolio",
+            "blog", "create courses", "talks", "events", "slides", "gallery",  "contact form"]
 
 [author]
   name = "George Cushen"
